@@ -462,6 +462,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Markup: Link</string>
+			<key>scope</key>
+			<string>meta.link</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#4B83CD</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Markup: Output</string>
 			<key>scope</key>
 			<string>markup.output, markup.raw</string>
