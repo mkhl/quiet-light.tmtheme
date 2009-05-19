@@ -1,0 +1,17 @@
+# QuietLight.tmTheme
+
+A [TextMate][] theme based on the [Quiet Light theme][quiet-light] for
+[Espresso][].
+
+I really like this Espresso theme and wanted to be able to use it with
+TextMate.
+
+## Installation
+
+Just double-click or `open` the `QuietLight.tmTheme` file and TextMate will take
+care of installing it for you.
+
+
+[espresso]: http://macrabbit.com/espresso/
+[quiet-light]: http://github.com/onecrayon/quiet-light.foam/
+[textmate]: http://macromates.com/
