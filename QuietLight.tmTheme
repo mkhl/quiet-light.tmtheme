@@ -64,8 +64,6 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>comment</key>
-			<string>Highlighted like: metadata (or string)</string>
 			<key>name</key>
 			<string>Comments: Documentation</string>
 			<key>scope</key>
@@ -507,8 +505,6 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>comment</key>
-			<string>Highlighted like: exceptions</string>
 			<key>name</key>
 			<string>Markup: Traceback</string>
 			<key>scope</key>
