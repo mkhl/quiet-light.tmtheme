@@ -1,6 +1,7 @@
 # QuietLight.tmTheme
 
-A [TextMate][] theme based on the [Espresso][] theme [Quiet Light][quiet-light] by [Ian Beck][onecrayon].
+A [TextMate][] theme based on the [Espresso][] theme
+[Quiet Light][quiet-light] by [Ian Beck][onecrayon].
 
 
 ## Installation
@@ -14,7 +15,7 @@ take care of installing it for you.
 Released under the MIT license.
 
 
+[textmate]: http://macromates.com/
 [espresso]: http://macrabbit.com/espresso/
 [quiet-light]: http://github.com/onecrayon/quiet-light.foam
-[textmate]: http://macromates.com/
 [onecrayon]: http://beckism.com/
