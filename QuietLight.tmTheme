@@ -147,7 +147,7 @@
 			<key>name</key>
 			<string>Functions</string>
 			<key>scope</key>
-			<string>entity.name.function, support.function, entity</string>
+			<string>entity.name.function, support.function</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -278,7 +278,7 @@
 			<key>name</key>
 			<string>HTML: Doctype Declaration</string>
 			<key>scope</key>
-			<string>meta.tag.sgml.doctype</string>
+			<string>meta.tag.sgml.doctype, meta.tag.sgml.doctype string, meta.tag.sgml.doctype entity.name.tag, meta.tag.sgml punctuation.definition.tag.html</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -311,7 +311,7 @@
 			<key>name</key>
 			<string>HTML: Attribute Names</string>
 			<key>scope</key>
-			<string>meta.tag entity.other.attribute-name</string>
+			<string>meta.tag entity.other.attribute-name, entity.other.attribute-name.html</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
